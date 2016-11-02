@@ -73,7 +73,7 @@ class InputPicker extends React.Component {
 
     const androidStyles = {
       padding: 0,
-      fontSize: fontSizes[4]
+//      fontSize: fontSizes[4]
     }
 
     const child = React.Children.only(this.props.children)
